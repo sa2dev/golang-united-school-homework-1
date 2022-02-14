@@ -1,4 +1,4 @@
-module lecture-00
+module main
 
 go 1.17
 
